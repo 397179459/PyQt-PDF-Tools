@@ -8,4 +8,6 @@
 
 框架： `PyQt5`  + `PyPDF2`
 
-代码在`source_file/pdf.py`，UI是`source_file/pdf_w.ui`。
+代码在`pdf.py`，UI是`pdf_w.ui`。
+
+![image-20210324001345882](.\img\image-20210324001345882.png)
