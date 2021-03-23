@@ -10,4 +10,4 @@
 
 ´úÂëÔÚ`pdf.py`£¬UIÊÇ`pdf_w.ui`¡£
 
-![image-20210324001345882](.\img\image-20210324001345882.png)
+![image-20210324001345882](https://github.com/397179459/PyQt-PDF-Tools/blob/master/img/image-20210324001345882.png)
